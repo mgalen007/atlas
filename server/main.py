@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from features.research.routes import router as research_router
+from features.research.router import router as research_router
 
 # App instance
 app = FastAPI()

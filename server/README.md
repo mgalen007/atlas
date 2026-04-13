@@ -111,6 +111,10 @@ The Swagger UI documentation for the API.
 atlas/
 ├── server/
 │   ├── main.py
+│   └── docs
+│       └── screenshots
+│           ├── postman.png
+│           └── swagger.png
 │   └── features/
 │       ├── __init__.py
 │       ├── research/
@@ -133,12 +137,12 @@ atlas/
 ---
 
 ## Screenshots
+![screenshot](docs/screenshots/swagger.png)
+*Swagger UI docs*
 
-![screenshot](C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-04-13 225722.png)
-Swagger UI docs
+![screenshot](docs/screenshots/postman.png)
+*Example response in Postman for topic "Generative AI"*
 
-![screenshot](C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-04-13 225805.png)
-Example response in Postman for topic "Generative AI"
 
 ---
 

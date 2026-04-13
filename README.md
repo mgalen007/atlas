@@ -134,10 +134,10 @@ atlas/
 
 ## Screenshots
 
-![screenshot]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-04-13 225722.png")
+![screenshot](docs/screenshots/swagger.png)
 Swagger UI docs
 
-![screenshot]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-04-13 225805.png")
+![screenshot](docs/screenshots/postman.png)
 Example response in Postman for topic "Generative AI"
 
 ---

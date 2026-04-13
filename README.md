@@ -134,10 +134,10 @@ atlas/
 
 ## Screenshots
 
-![screenshot](docs/screenshots/swagger.png)
+![screenshot](server/docs/screenshots/swagger.png)
 Swagger UI docs
 
-![screenshot](docs/screenshots/postman.png)
+![screenshot](server/docs/screenshots/postman.png)
 Example response in Postman for topic "Generative AI"
 
 ---
